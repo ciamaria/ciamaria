@@ -7,6 +7,7 @@ Tambíen la usaremos para compartir software creado por y para los profesores.<b
 <br>
 
 <center>
-![Ciamaria](https://github.com/user-attachments/assets/2e995f06-6ff6-4b90-a044-03285bce5df5)
+![Ciamaria](https://github.com/ciamaria/ciamaria/blob/main/Logo%20Universal.jpg)
+
 </center>
 
