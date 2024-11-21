@@ -7,6 +7,6 @@ Tambíen la usaremos para compartir software creado por y para los profesores.<b
 <br>
 
 <center>
-![0 Logo Compa§°a Universal - copia](https://github.com/user-attachments/assets/2e995f06-6ff6-4b90-a044-03285bce5df5)
+![Ciamaria](https://github.com/user-attachments/assets/2e995f06-6ff6-4b90-a044-03285bce5df5)
 </center>
 
