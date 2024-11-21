@@ -6,9 +6,7 @@ Esta cuenta está diseñada para la creación de contenidos y programación por 
 Tambíen la usaremos para compartir software creado por y para los profesores.<br>
 <br>
 
-<center></center>
-
-
-
-
+<center>
+![0 Logo Compa§°a Universal - copia](https://github.com/user-attachments/assets/2e995f06-6ff6-4b90-a044-03285bce5df5)
+</center>
 
